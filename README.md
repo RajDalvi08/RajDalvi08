@@ -48,7 +48,7 @@ Currently focused on **where intelligence meets jaw-dropping UX**. 😎
 ## 📊 **GitHub Stats**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RajDalvi08&theme=radical)  
- 
+
 
 ---
 
@@ -70,7 +70,7 @@ I enjoy debugging **more than writing code** 😎
 
 ## 🌐 **Connect with Me**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_raj_.08) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RajDalvi08) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-dalvi-400535331) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdalvi706@gmail.com)
 
 ---
