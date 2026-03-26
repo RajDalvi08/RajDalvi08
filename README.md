@@ -46,9 +46,9 @@ Currently focused on **where intelligence meets jaw-dropping UX**. 😎
 ---
 
 ## 📊 **GitHub Stats**
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajDalvi08&show_icons=true&theme=radical)  
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=RajDalvi08&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajDalvi08&theme=radical&layout=compact)  
+ 
 
 ---
 
