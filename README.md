@@ -1,70 +1,88 @@
-# 💫 About Me
-# Hey 👋 I'm Raj Dalvi  
+# 💫 **Hey There! I'm Raj Dalvi** ✨  
 
-### 🚀 Full Stack Developer | 🤖 AI Builder | 💡 Problem Solver  
-
----
-
-## 🧠 About Me
-I don’t just write code — I build **real-world solutions**.  
-I’m a full-stack developer creating **modern web apps + AI-powered platforms** that solve real problems.  
-Currently focused on projects where **intelligence meets user experience**.
+### 🚀 Full Stack Developer | 🤖 AI Wizard | 💡 Problem Solver  
 
 ---
 
-## 🚀 Current Focus
-
-### 🤖 AI Mock Interviewer
-An AI-powered platform that simulates real interviews with intelligent feedback.
-
-### 🔍 TruthLens
-A smart system for fact-checking and truth analysis using AI.
+## 🧠 **About Me**
+I don’t just write code — I **create magic** in the digital world.  
+Building **AI-powered platforms + full-stack apps** that make life easier.  
+Currently focused on **where intelligence meets jaw-dropping UX**. 😎  
 
 ---
 
-## ⚡ What I Do
-- 💻 Build Full Stack MERN Applications  
-- 🧠 Integrate AI into Web Apps  
-- 🎯 Design Clean & Functional UI/UX  
-- ⚙️ Develop Scalable Backend Systems  
+## 🚀 **Current Focus**
+### 🤖 AI Mock Interviewer  
+> Simulate real interviews & get **AI-powered feedback** instantly.  
+
+### 🔍 TruthLens  
+> Fact-checking & truth analysis platform using **state-of-the-art AI**.  
 
 ---
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+## ⚡ **What I Do**
+- 💻 Build **Full Stack MERN Applications**  
+- 🧠 Integrate **AI into Web Apps**  
+- 🎨 Design **Clean & Mind-Blowing UI/UX**  
+- ⚙️ Architect **Scalable & Fast Backends**  
 
 ---
 
-## 🎯 Vision
-To build tech that is not just functional, but **impactful**.
+## 🛠️ **Tech Stack**
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/-NodeJS-%2361DA61?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Python](https://img.shields.io/badge/-Python-%233567A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-%23005571?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Postgres](https://img.shields.io/badge/-PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/-Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white)  
 
 ---
 
-## ⚡ Fun Fact
-I enjoy debugging more than writing code 😄  
-(It feels like solving a mystery 🕵️‍♂️)
+## 📊 **GitHub Stats**
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajDalvi08&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=RajDalvi08&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajDalvi08&theme=radical&layout=compact)  
 
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_raj_.08) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RajDalvi08) 
+## 🏆 **GitHub Trophies**
+![](https://github-profile-trophy.vercel.app/?username=RajDalvi08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ **Random Dev Quote**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 **Top Contributed Repo**
+![](https://github-contributor-stats.vercel.app/api?username=RajDalvi08&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🎯 **Vision**
+Build tech that is **not just functional, but insane and impactful**. ⚡
+
+---
+
+## ⚡ **Fun Fact**
+I enjoy debugging **more than writing code** 😎  
+> It’s like solving a digital mystery 🕵️‍♂️  
+
+---
+
+## 🌐 **Connect with Me**
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_raj_.08) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RajDalvi08) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdalvi706@gmail.com)
 
 ---
 
-### 🔥 "Code. Build. Break. Learn. Repeat."
+### 🔥 **"Code. Build. Break. Learn. Repeat."**
