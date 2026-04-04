@@ -1,7 +1,7 @@
 # ⚔️ RAJ DALVI — DIGITAL ARCHITECT  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder;System+Thinker;Code.+Break.+Rebuild.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Builder;System+Thinker;Code.+Break.+Rebuild.+Repeat." />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 | ☁️ DevOps & Infra | Docker · Git · Linux | ███████░░░ |
 | 📊 Monitoring | Logging · Debugging · Performance Tuning | ████████░░ |
 | 🤖 AI/ML | TensorFlow · PyTorch · LLM APIs | ████████░░ |
-| 🛠️ Dev Environment | VS Code · Postman · GitHub | ██████████ |
+| 🛠️ Development Environment | VS Code · Postman · GitHub | ██████████ |
 
 ---
 
@@ -37,13 +37,13 @@
 
 ## 🚀 ACTIVE QUEST LOG
 
-| 🎯 Project | Description |
-|----------|------------|
-| 🤖 **AI Mock Interviewer** | AI-powered interview simulator with real-time feedback |
-| 🔍 **TruthLens** | Truth analysis & fact-checking platform using AI |
-| 🛒 **MERN E-Commerce** | Full-stack platform with auth, payments & admin dashboard |
-| 💼 **Job Portal System** | Role-based hiring system with resume features |
-| 🎨 **OutfitRent** | Student outfit renting platform with chat & ratings |
+| 🎯 | Project | Description |
+|----|--------|------------|
+| 🤖 | AI Mock Interviewer | AI-powered interview simulator with real-time feedback |
+| 🔍 | TruthLens | Truth analysis & fact-checking platform using AI |
+| 🛒 | MERN E-Commerce | Full-stack platform with auth, payments & admin dashboard |
+| 💼 | Job Portal System | Role-based hiring system with resume features |
+| 🎨 | OutfitRent | Student outfit renting platform with chat & ratings |
 
 ---
 
@@ -59,26 +59,22 @@
 
 > "The unexamined codebase is not worth maintaining."
 
-Software isn’t just built — it’s **forged**.  
-Every function, every API, every system design decision  
-is a reflection of **how you think**.  
+Great software is philosophy made executable —  
+every architectural decision is a bet on what matters.  
 
-I don’t just build apps.  
-I build **systems that think, scale, and evolve.** ⚡  
+I build systems that are not just functional,  
+but **scalable, intelligent, and impactful.** ⚡  
 
 ---
 
 ## 🤝 JOIN MY PARTY
 
-Open to:
-- 🚀 Collaborations  
-- ⚔️ Hackathons  
-- 🧠 Deep tech discussions  
+Open to collabs, side quests, and conversations worth having.
 
 ---
 
 ## 🌍 LOCATION
-📍 Mumbai · India  
+Mumbai · India  
 
 ---
 
