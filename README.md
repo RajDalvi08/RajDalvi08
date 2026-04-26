@@ -156,8 +156,7 @@
 | 🔍 | **[TruthLens](https://github.com/RajDalvi08/TruthLens)** | AI-driven bias detection for news — core dev |
 | 🤖 | **[mock-interview](https://github.com/RajDalvi08/AI-mock-interviewer)** | Intelligent interviewer using Generative AI |
 | 🛒 | **[CamousKart](https://github.com/RajDalvi08/CamousKart)** | Campus-centric P2P marketplace |
-| 🏠 | **[Smart-Home](https://github.com/RajDalvi08/Smart-Home-Monitoring-System)** | Real-time IoT monitoring & control system |
-| 🎥 | **[Netflix-Clone](https://github.com/RajDalvi08/Netflix-Clone)** | High-fidelity frontend streaming experience |
+
 
 </div>
 
