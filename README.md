@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="1024" height="524" alt="raj_github_banner_1777175714153" src="https://github.com/user-attachments/assets/378b4f3d-8e6d-49ed-bc2b-3fddd3884d30" />
+<img width="1024" height="724" alt="raj_github_banner_1777175714153" src="https://github.com/user-attachments/assets/378b4f3d-8e6d-49ed-bc2b-3fddd3884d30" />
 
 </div>
 
