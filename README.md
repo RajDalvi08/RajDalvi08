@@ -13,7 +13,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/rajdalvi">
+<a href="https://www.linkedin.com/in/raj-dalvi-400535331/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 
