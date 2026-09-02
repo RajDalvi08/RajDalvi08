@@ -1,212 +1,347 @@
-
 <div align="center">
 
-<img width="624" height="224" alt="raj_github_banner_1777175714153" src="https://github.com/user-attachments/assets/378b4f3d-8e6d-49ed-bc2b-3fddd3884d30" />
+<img width="624" height="224" alt="Raj GitHub Banner" src="https://github.com/user-attachments/assets/378b4f3d-8e6d-49ed-bc2b-3fddd3884d30" />
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=19&pause=900&color=09f3aa&center=true&vCenter=true&random=false&width=680&lines=%3E+INITIALIZING+SYSTEM...;%3E+Digital+Architect+%7C+Full-Stack+Engineer;%3E+Currently+shipping%3A+TruthLens_CORE+%F0%9F%94%8D;%3E+STATUS%3A+Designing+scalable+futures+%F0%9F%8C%90" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=19&pause=900&color=09F3AA&center=true&vCenter=true&random=false&width=680&lines=%3E+INITIALIZING+SYSTEM...;%3E+Full-Stack+Engineer+%7C+AI+Builder;%3E+Currently+shipping%3A+CodeSpec+AI+%26+TruthLens;%3E+STATUS%3A+Building+scalable+systems+%F0%9F%8C%90" alt="Typing SVG" />
 
-<div align="center">
-
-<p align="center">
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/raj-dalvi-400535331/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
-
+&nbsp;
 <a href="mailto:rajdalvi.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RajDalvi08&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
 
 </div>
 
-## ⚔️ TECH ARSENAL
+---
 
-<table align="center">
-  <tr>
-    <th align="center"><b>Category</b></th>
-    <th align="center"><b>Technologies</b></th>
-    <th align="center"><b>Proficiency</b></th>
-  </tr>
+## 👨‍💻 ABOUT ME
 
-  <!-- LANGUAGES -->
-  <tr>
-    <td align="center"><b>🔤 Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Expert-🔥-22c55e?style=flat-square&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/JS%20|%20Python%20|%20TS-Strong-22c55e?style=flat-square&labelColor=000000" />
-    </td>
-  </tr>
+```text
+Raj Dalvi
+────────────────────────────────────────────
+🎓 B.Tech Information Technology | 2027
+💻 Full-Stack Developer
+🤖 AI / ML Enthusiast
+🏗️ Interested in System Architecture
+🌐 Building scalable web applications
+📍 Mumbai, India
+```
 
-  <!-- FRONTEND -->
-  <tr>
-    <td align="center"><b>🖥️ Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Advanced-⚡-22c55e?style=flat-square&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/React%20|%20Next.js-Proficient-22c55e?style=flat-square&labelColor=000000" />
-    </td>
-  </tr>
+I enjoy turning ideas into **real, scalable software systems**.
 
-  <!-- BACKEND -->
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Advanced-⚡-22c55e?style=flat-square&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/System%20Design%20|%20APIs-Strong-22c55e?style=flat-square&labelColor=000000" />
-    </td>
-  </tr>
+My current focus is on building full-stack applications, AI-powered developer tools, and systems that combine **software engineering with intelligent automation**.
 
-  <!-- DATABASES -->
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Moderate-⚡-2ec4b6?style=flat-square&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB%20|%20PostgreSQL-Proficient-2ec4b6?style=flat-square&labelColor=000000" />
-    </td>
-  </tr>
+I'm particularly interested in:
 
-  <!-- DEVOPS & INFRA -->
-  <tr>
-    <td align="center"><b>☁️ DevOps & Infra</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Moderate-⚡-2ec4b6?style=flat-square&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/Docker%20|%20CI/CD%20|%20AWS-Proficient-2ec4b6?style=flat-square&labelColor=000000" />
-    </td>
-  </tr>
+* 🏗️ System Design & Software Architecture
+* ⚛️ Full-Stack Web Development
+* 🤖 AI / NLP Applications
+* 🔌 REST APIs & Backend Engineering
+* 🗄️ Database Design
+* ☁️ Cloud & DevOps
+* 📊 Data-driven applications
 
-  <!-- AI/ML -->
-  <tr>
-    <td align="center"><b>🤖 AI/ML</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,openai" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Learning-📈-f59e0b?style=flat-square&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/NLP%20|%20Computer%20Vision-Basic-f59e0b?style=flat-square&labelColor=000000" />
-    </td>
-  </tr>
+---
 
-  <!-- TOOLS -->
-  <tr>
-    <td align="center"><b>🛠️ Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,postman,figma,ubuntu" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Workflow-Optimized-22c55e?style=flat-square&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/Productivity%20|%20Design-Strong-22c55e?style=flat-square&labelColor=000000" />
-    </td>
-  </tr>
+# ⚔️ TECH ARSENAL
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis" />
+
+<br/><br/>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+<br/><br/>
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel" />
+
+<br/><br/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,ubuntu" />
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+## 🔍 TruthLens
+
+**AI-Powered News Bias Detection**
+
+A machine-learning based system designed to analyze news articles and identify different forms of media bias.
+
+**Stack**
+
+`React` `FastAPI` `Python` `PyTorch` `Transformers` `MongoDB`
+
+**Highlights**
+
+* AI-powered bias classification
+* Transformer-based NLP models
+* Multi-model bias scoring pipeline
+* Interactive analysis dashboard
+* REST API architecture
+
+<a href="https://github.com/RajDalvi08/Truthlens">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🧠 CodeSpec AI
+
+**AI-Based Software Architecture & Impact Analysis**
+
+A developer-focused system that ingests codebases, extracts structural information, and builds an understanding of software architecture.
+
+**Stack**
+
+`FastAPI` `Tree-sitter` `Neo4j` `Celery` `Redis` `Docker`
+
+**Highlights**
+
+* Repository ingestion
+* Source-code parsing
+* AST / structural analysis
+* Dependency extraction
+* Architecture representation
+* AI-powered code understanding
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤖 AI Mock Interviewer
+
+**AI-Powered Interview Platform**
+
+An intelligent interview system that uses Generative AI to conduct interviews and generate structured performance feedback.
+
+**Stack**
+
+`React` `Node.js` `Generative AI` `MongoDB`
+
+**Highlights**
+
+* AI-generated questions
+* Interactive interview flow
+* Candidate evaluation
+* Structured feedback
+* Performance analysis
+
+<a href="https://github.com/RajDalvi08/AI-mock-interviewer">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🛒 CampusKart
+
+**Campus-Centric P2P Marketplace**
+
+A marketplace platform designed for students to buy and sell products within their campus community.
+
+**Stack**
+
+`MongoDB` `Express` `React` `Node.js`
+
+**Highlights**
+
+* User authentication
+* Product listings
+* Image uploads
+* Shopping cart
+* Category-based browsing
+* Payment integration
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 MATCH STATS
+# 🧩 ENGINEERING FOCUS
 
 <div align="center">
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajDalvi08&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=E8C848&point=10B981&color=8892b0&bg_color=000000" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### 📊 Profile Overview
-<img src="https://github-readme-stats.vercel.app/api?username=RajDalvi08&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### 🧠 Language Focus
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDalvi08&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajDalvi08&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
----
-
-## 🚀 ACTIVE QUEST LOG
-
-<div align="center">
-
-| 🎯 | Project | Description |
-|:---:|:---|:---|
-| 🔍 | **[TruthLens](https://github.com/RajDalvi08/TruthLens)** | AI-driven bias detection for news — core dev |
-| 🤖 | **[mock-interview](https://github.com/RajDalvi08/AI-mock-interviewer)** | Intelligent interviewer using Generative AI |
-| 🛒 | **[CamousKart](https://github.com/RajDalvi08/CamousKart)** | Campus-centric P2P marketplace |
-
+|         Area         | Currently Working With                       |
+| :------------------: | :------------------------------------------- |
+|   🏗️ Architecture   | REST APIs · Modular Systems · Service Design |
+|    💻 Development    | React · Node.js · Python · FastAPI           |
+|         🤖 AI        | NLP · Transformers · LLM Applications        |
+|       🗄️ Data       | MongoDB · PostgreSQL · Redis                 |
+| 🔍 Code Intelligence | Tree-sitter · AST · Dependency Analysis      |
+|   ☁️ Infrastructure  | Docker · CI/CD · AWS                         |
+|  📚 Problem Solving  | Data Structures & Algorithms                 |
 
 </div>
 
 ---
 
-## 🎯 CURRENT FOCUS
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-| 🌱 Grinding | 📚 Exploring | 💬 Ask Me |
-|:---:|:---:|:---:|
-| System Architecture · Web3 | LLM Fine-tuning · MLOps | React/Node · Python Scripting · IoT |
+<img src="https://github-readme-stats.vercel.app/api?username=RajDalvi08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajDalvi08&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDalvi08&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
 ---
 
-## 💭 LORE
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-> *"Software is the ultimate architectural expression of human logic."*
-> — Raj Dalvi
-
-I believe that every line of code is a brick in a digital cathedral. My goal is to architect systems that are not just functional, but enduring and elegant.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajDalvi08&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🤝 JOIN MY PARTY
+# 🎯 CURRENTLY LEARNING
 
 <div align="center">
 
-*Open to collaborations, system architectural challenges, and visionary projects.*
-<p align="center">
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  🏗️ System Design                                   │
+│  🤖 LLM Applications & Fine-Tuning                  │
+│  🔍 Code Intelligence & Static Analysis             │
+│  ☁️ Cloud & DevOps                                  │
+│  🧠 Advanced DSA                                    │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
-<a href="https://linkedin.com/in/rajdalvi">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+</div>
+
+---
+
+# 🧠 WHAT I LIKE BUILDING
+
+```text
+        IDEA
+          │
+          ▼
+   ┌─────────────┐
+   │   DESIGN    │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │   DEVELOP   │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │   INTEGRATE │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │    DEPLOY   │
+   └──────┬──────┘
+          │
+          ▼
+      🚀 SHIP
+```
+
+I like working on projects where **frontend, backend, databases, AI, and infrastructure come together as one system**.
+
+---
+
+# 🏆 DEVELOPMENT PHILOSOPHY
+
+> **"Good software isn't just code that works — it's a system that can evolve."**
+
+I believe software should be:
+
+* **Simple enough to understand**
+* **Modular enough to evolve**
+* **Scalable enough to grow**
+* **Reliable enough to trust**
+* **Elegant enough to maintain**
+
+---
+
+# 🤝 LET'S BUILD SOMETHING
+
+<div align="center">
+
+I'm open to:
+
+**Open Source · Collaborations · AI Projects · Full-Stack Projects · System Design Challenges**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/raj-dalvi-400535331/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+ 
 
 <a href="mailto:rajdalvi.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RajDalvi08&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
-
-<sub>Mumbai · India</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:7C3AED&height=120&section=footer"/>
 
 </div>
-
