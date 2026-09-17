@@ -1,392 +1,419 @@
-# 👾 RAJ DALVI — SOFTWARE ENGINEER IN PROGRESS
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+Dalvi+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Builder;Building+CodeSpec+AI+%26+TruthLens;Turning+ideas+into+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
+# `RAJ.D`
 
-<br/>
+### `SOFTWARE ENGINEER // SYSTEM BUILDER // AI EXPLORER`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=%5B+BOOTING+RAJ.DEV+%5D;%3E+Engineering+systems%2C+not+just+features.;%3E+Exploring+AI+%C3%97+Backend+%C3%97+Architecture.;%3E+Currently+building+CodeSpec+AI.;%3E+Currently+building+TruthLens.;%5B+SYSTEM+ONLINE+%5D" />
+
+<br><br>
 
 <a href="https://github.com/RajDalvi08">
-<img src="https://img.shields.io/badge/GitHub-RajDalvi08-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/raj-dalvi-400535331/">
-<img src="https://img.shields.io/badge/LinkedIn-Raj_Dalvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
 </a>
+&nbsp;
 <a href="mailto:rajdalvi.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RajDalvi08&label=PROFILE+VISITS&color=8B5CF6&style=for-the-badge"/>
+`B.E. INFORMATION TECHNOLOGY • 2027 • INDIA`
 
 </div>
 
 ---
 
-## 🧬 `whoami`
-
-```yaml
-name: Raj Dalvi
-role: Full-Stack Developer & AI Builder
-education: B.E. Information Technology
-graduation: 2027
-location: Mumbai, India
-
-currently_building:
-  - CodeSpec AI
-  - TruthLens
-
-interests:
-  - Backend Engineering
-  - Software Architecture
-  - AI / NLP
-  - Developer Tools
-  - System Design
-
-mission: "Build software that solves real problems."
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   RAJ.DEV                                                            │
+│                                                                      │
+│   I don't just write applications.                                  │
+│   I like figuring out how the pieces should fit together.           │
+│                                                                      │
+│   frontend ─────┐                                                    │
+│                  ├──── backend ──── data ──── intelligence            │
+│   users ─────────┘                         │                          │
+│                                            └──── infrastructure        │
+│                                                                      │
+│   CURRENT MODE                                                       │
+│   ────────────                                                       │
+│   BUILDING  →  LEARNING  →  BREAKING  →  FIXING  →  SHIPPING        │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
 
-I’m an Information Technology student who enjoys building **full-stack applications, AI-powered tools, and systems that connect software engineering with intelligent automation.**
+# `01 // THE PERSON BEHIND THE CODE`
 
-I like going beyond writing code — understanding how systems are designed, how components communicate, and how applications can evolve as they grow.
+I'm **Raj Dalvi**, an Information Technology student interested in the space where:
 
-> **Think in systems. Build with purpose. Ship with confidence.**
+**software engineering meets AI meets system architecture.**
 
----
+I enjoy taking an idea that exists only as:
 
-## ⚡ `current_status`
+```text
+"wouldn't it be cool if..."
+```
 
-<div align="center">
+and turning it into:
 
-| AREA                      | STATUS                                    |
-| :------------------------ | :---------------------------------------- |
-| 🎓 Engineering            | B.E. IT — 2027                            |
-| 💻 Full-Stack Development | Building & improving                      |
-| 🤖 AI Engineering         | Exploring NLP, LLMs & intelligent systems |
-| 🏗️ Software Architecture | Learning by building CodeSpec AI          |
-| 🧠 DSA                    | C++ · Problem Solving                     |
-| 🚀 Open Source            | Learning, experimenting & contributing    |
+```text
+architecture → code → APIs → data → intelligence → product
+```
 
-</div>
+My strongest interest is **backend and full-stack engineering**, while I continue exploring AI, NLP, distributed systems, cloud infrastructure, and software architecture.
 
 ---
 
-# 🛠️ `tech_stack`
+# `02 // MY CURRENT OPERATING SYSTEM`
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap" />
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
-
-### Databases & Storage
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis" />
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel,vscode,postman,figma,ubuntu" />
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     RAJ.DEV / STATUS                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ROLE        ███████████████████░  FULL-STACK BUILDER        │
+│  BACKEND     ██████████████████░░  BUILDING                  │
+│  AI          ████████████████░░░░  EXPLORING                │
+│  ARCHITECTURE██████████████░░░░░░  LEARNING                 │
+│  DSA         ███████████████░░░░░  PRACTICING               │
+│  CLOUD       ████████████░░░░░░░░  EXPERIMENTING            │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  PRIMARY_LANGUAGE       C++ / Python / JavaScript             │
+│  BACKEND                Node.js / FastAPI                     │
+│  FRONTEND               React                                │
+│  DATA                   MongoDB / PostgreSQL / Redis          │
+│  AI                     NLP / LLM / Transformers               │
+│  CODE INTELLIGENCE      AST / Tree-sitter / Graphs            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🚀 `featured_work`
+# `03 // PROJECTS CURRENTLY RUNNING`
 
-> Projects I’m using to explore real-world engineering, AI, and scalable application design.
+## `PROJECT_01` — TRUTHLENS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```text
+TYPE        → AI / NLP
+MISSION     → Understand bias in news content
+STATUS      → ████████████████████ ACTIVE
+```
 
-## 🔍 TruthLens
+**TruthLens** is an AI-powered news analysis platform built to examine articles and identify different forms of media bias.
 
-### AI-Powered News Bias Detection
-
-A machine-learning platform designed to analyze news articles and identify different forms of media bias.
-
-**What I’m exploring**
-
-* Transformer-based NLP
-* Hybrid bias scoring
-* AI-powered text analysis
-* Interactive dashboards
-* Backend API architecture
-
-**Built with**
+```text
+ARTICLE
+   │
+   ▼
+NLP PROCESSING
+   │
+   ├── Linguistic Signals
+   ├── Framing Signals
+   └── Entity Signals
+           │
+           ▼
+      BIAS PIPELINE
+           │
+           ▼
+      SCORE + ANALYSIS
+           │
+           ▼
+       DASHBOARD
+```
 
 `React` `FastAPI` `Python` `PyTorch` `Transformers` `MongoDB`
 
-<div align="center">
+→ [SOURCE CODE](https://github.com/RajDalvi08/Truthlens?utm_source=chatgpt.com)
 
-<a href="https://github.com/RajDalvi08/Truthlens">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-</div>
+## `PROJECT_02` — CODESPEC AI
 
-</td>
-<td width="50%" valign="top">
+```text
+TYPE        → DEVELOPER TOOL
+MISSION     → Understand software before changing it
+STATUS      → █████████████████░░░ IN DEVELOPMENT
+```
 
-## 🧠 CodeSpec AI
+**CodeSpec AI** is being built around one idea:
 
-### AI-Based Software Architecture & Impact Analysis
+> **A codebase should be understandable as a system, not just as thousands of files.**
 
-A developer-focused system that analyzes codebases, extracts structural information, and builds an understanding of software architecture.
-
-**What I’m exploring**
-
-* Repository ingestion
-* Tree-sitter parsing
-* AST analysis
-* Dependency graphs
-* Code intelligence
-* Change impact analysis
-
-**Built with**
+```text
+REPOSITORY
+     │
+     ▼
+ INGESTION
+     │
+     ▼
+ TREE-SITTER
+     │
+     ├── Classes
+     ├── Functions
+     ├── Imports
+     └── Structure
+          │
+          ▼
+    DEPENDENCY GRAPH
+          │
+          ▼
+       NEO4J
+          │
+          ▼
+   CODE INTELLIGENCE
+          │
+          ├── Architecture
+          ├── Relationships
+          └── Impact Analysis
+```
 
 `FastAPI` `Tree-sitter` `Neo4j` `Celery` `Redis` `Docker`
 
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-F59E0B?style=for-the-badge"/>
+## `PROJECT_03` — AI MOCK INTERVIEWER
 
-</div>
+```text
+TYPE        → GENERATIVE AI
+MISSION     → Turn interview preparation into an interactive experience
+STATUS      → BUILT
+```
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+An AI-powered interview platform that combines:
 
-## 🤖 AI Mock Interviewer
-
-### Intelligent Interview Preparation
-
-A Generative AI-powered interview platform that generates questions, conducts interviews, and produces structured candidate feedback.
-
-**Core features**
-
-* AI-generated interview questions
-* Interactive interview experience
-* Candidate evaluation
-* Performance feedback
-* Personalized preparation
-
-**Built with**
+```text
+RESUME
+   +
+SELF DESCRIPTION
+   +
+JOB DESCRIPTION
+   ↓
+AI INTERVIEW
+   ↓
+QUESTIONS
+   ↓
+RESPONSES
+   ↓
+EVALUATION
+   ↓
+FEEDBACK + PREPARATION PLAN
+```
 
 `React` `Node.js` `MongoDB` `Generative AI`
 
-<div align="center">
+→ [SOURCE CODE](https://github.com/RajDalvi08/AI-mock-interviewer?utm_source=chatgpt.com)
 
-<a href="https://github.com/RajDalvi08/AI-mock-interviewer">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-</div>
+## `PROJECT_04` — CAMPUSKART
 
-</td>
-<td width="50%" valign="top">
+```text
+TYPE        → FULL-STACK MARKETPLACE
+MISSION     → Student-to-student commerce
+STATUS      → BUILT
+```
 
-## 🛒 CampusKart
-
-### Campus-Centric Marketplace
-
-A student-focused peer-to-peer marketplace designed to make buying and selling products within a campus community easier.
-
-**Core features**
-
-* User authentication
-* Product listings
-* Image uploads
-* Shopping cart
-* Category browsing
-* Marketplace workflows
-
-**Built with**
+A campus-focused marketplace where students can list, discover, and exchange products.
 
 `MongoDB` `Express` `React` `Node.js`
 
+---
+
+# `04 // THE STACK IS NOT THE POINT`
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/TYPE-FULL--STACK_APP-22C55E?style=for-the-badge"/>
+### I WORK ACROSS THE STACK
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,next,tailwind,nodejs,express,fastapi,mongodb,postgres,mysql,redis,firebase,pytorch,tensorflow,git,github,docker,aws,vercel,vscode,postman" />
 
 </div>
 
-</td>
-</tr>
-</table>
+<br>
 
----
+But tools are just tools.
 
-# 🧩 `engineering_interests`
-
-<div align="center">
+What I'm actually trying to get better at:
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                    ENGINEERING FOCUS                     │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  ▸ Backend Engineering       REST APIs · Node · FastAPI   │
-│                                                          │
-│  ▸ Software Architecture     Modular Systems · Design    │
-│                                                          │
-│  ▸ AI Engineering            NLP · LLMs · Transformers   │
-│                                                          │
-│  ▸ Code Intelligence         AST · Tree-sitter · Graphs  │
-│                                                          │
-│  ▸ Data Systems              MongoDB · SQL · Redis       │
-│                                                          │
-│  ▸ Infrastructure             Docker · CI/CD · Cloud     │
-│                                                          │
-│  ▸ Problem Solving           C++ · DSA · Algorithms      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 📚 `learning_queue`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/System_Design-Studying-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_Applications-Exploring-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Static_Analysis-Building-A78BFA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud_%26_DevOps-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Advanced_DSA-Practicing-4F46E5?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📊 `github_activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RajDalvi08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajDalvi08&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDalvi08&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
----
-
-# 🌌 `contribution_matrix`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajDalvi08&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🔭 `next_milestones`
-
-```text
-[01] Strengthen backend engineering fundamentals
-[02] Design scalable software architectures
-[03] Build production-ready AI applications
-[04] Explore distributed systems & cloud infrastructure
-[05] Improve DSA and problem-solving skills
-[06] Contribute to meaningful engineering projects
+                    ┌───────────────┐
+                    │  ARCHITECTURE │
+                    └───────┬───────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+          BACKEND          DATA            AI
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                     DISTRIBUTED
+                       SYSTEMS
+                            │
+                            ▼
+                      REAL PRODUCTS
 ```
 
 ---
 
-# 🧠 `my_building_loop`
+# `05 // THINGS CURRENTLY INSIDE MY HEAD`
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  SYSTEM DESIGN                                             │
+│                                                            │
+│  How does a system behave when 10 users become 10,000?     │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  AI ENGINEERING                                            │
+│                                                            │
+│  How do we turn models into useful software?              │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  CODE INTELLIGENCE                                         │
+│                                                            │
+│  How can software understand other software?               │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  BACKEND ENGINEERING                                       │
+│                                                            │
+│  How should APIs, databases and services work together?    │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  DSA                                                        │
+│                                                            │
+│  How do I solve the problem with fewer wasted operations?  │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `06 // BUILD PIPELINE`
+
+```text
+       ┌─────────┐
+       │  IDEA   │
+       └────┬────┘
+            │
+            ▼
+     ┌─────────────┐
+     │   QUESTION  │
+     └──────┬──────┘
+            │
+            ▼
+     ┌─────────────┐
+     │  ARCHITECT  │
+     └──────┬──────┘
+            │
+            ▼
+     ┌─────────────┐
+     │    BUILD    │
+     └──────┬──────┘
+            │
+            ▼
+     ┌─────────────┐
+     │    BREAK    │
+     └──────┬──────┘
+            │
+            ▼
+     ┌─────────────┐
+     │    FIX      │
+     └──────┬──────┘
+            │
+            ▼
+     ┌─────────────┐
+     │   DEPLOY    │
+     └──────┬──────┘
+            │
+            ▼
+          🚀
+         SHIP
+```
+
+---
+
+# `07 // GITHUB TELEMETRY`
 
 <div align="center">
 
-```text
-       ┌──────────────┐
-       │    IDEA      │
-       └──────┬───────┘
-              ▼
-       ┌──────────────┐
-       │   EXPLORE    │
-       └──────┬───────┘
-              ▼
-       ┌──────────────┐
-       │    DESIGN    │
-       └──────┬───────┘
-              ▼
-       ┌──────────────┐
-       │    BUILD     │
-       └──────┬───────┘
-              ▼
-       ┌──────────────┐
-       │    TEST      │
-       └──────┬───────┘
-              ▼
-       ┌──────────────┐
-       │    DEPLOY    │
-       └──────┬───────┘
-              ▼
-       ┌──────────────┐
-       │    ITERATE   │◄────────┐
-       └──────┬───────┘         │
-              ▼                  │
-            SHIP ───────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api?username=RajDalvi08&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajDalvi08&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDalvi08&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=9CA3AF" width="40%"/>
 
 </div>
 
 ---
 
-## 💭 `developer_mindset`
+# `08 // NEXT BOOT SEQUENCE`
 
-> “Good software isn't just code that works — it's a system that can evolve.”
+```text
+[ ✓ ] Full-Stack Development
+[ ✓ ] REST APIs
+[ ✓ ] MongoDB / SQL
+[ ✓ ] React
+[ ✓ ] AI Application Development
 
-* 🧱 Keep systems understandable.
-* 🔌 Design components that communicate clearly.
-* 📈 Build with scalability in mind.
-* 🧪 Learn through experimentation.
-* 🚀 Turn ideas into working software.
+[ → ] Advanced DSA
+[ → ] System Design
+[ → ] Distributed Systems
+[ → ] LLM Applications
+[ → ] Cloud & DevOps
+[ → ] Production Architecture
+```
 
 ---
 
-# 🤝 `connect_with_me`
+# `09 // ONE LAST THING`
 
 <div align="center">
 
-If you're interested in **AI, backend engineering, full-stack development, or building ambitious projects**, let's connect and create something meaningful.
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║              CODE IS THE OUTPUT.                   ║
+║              THINKING IS THE ENGINE.               ║
+║                                                    ║
+║        BUILD → LEARN → BREAK → REBUILD             ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
 
-<br/>
+### `RAJ.DEV // SYSTEM STATUS: BUILDING`
+
+<br>
 
 <a href="https://www.linkedin.com/in/raj-dalvi-400535331/">
-<img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT-ON_LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
+
 <a href="mailto:rajdalvi.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-DROP_A_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN-COMMUNICATION-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-**Building today. Learning every day. Shipping tomorrow.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:8B5CF6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1E1B4B,100:7C3AED&height=100&section=footer"/>
 
 </div>
