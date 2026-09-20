@@ -1,9 +1,9 @@
-<div align="center"> 
- 
-<img src=""C:\Users\Raj\Downloads\raj-dalvi-banner.png.png"" width="100%" alt="Raj Dalvi — Full-Stack Engineer | AI Builder | System Thinker"/> 
- 
-</div> 
- 
+<div align="center">
+
+<img src="./raj-dalvi-banner.png" width="100%" alt="Raj Dalvi — Full-Stack Engineer | AI Builder | System Thinker"/>
+
+</div>
+
 <br>
 <div align="center">
 
