@@ -1,3 +1,10 @@
+<div align="center"> 
+ 
+<img src="./raj-dalvi-banner.png" width="100%" alt="Raj Dalvi — Full-Stack Engineer | AI Builder | System Thinker"/> 
+ 
+</div> 
+ 
+<br>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&height=70&lines=%3E%3E+RAJ.D+%2F%2F+SYSTEM+ONLINE;%3E%3E+FULL-STACK+ENGINEER;%3E%3E+AI+SYSTEM+BUILDER;%3E%3E+ARCHITECTING+THE+NEXT+BUILD..." />
