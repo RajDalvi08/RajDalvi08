@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./raj-dalvi-banner.png" width="100%" alt="Raj Dalvi — Full-Stack Engineer | AI Builder | System Thinker"/>
+<img src="./raj-dalvi-banner.png" width="99%" alt="Raj Dalvi — Full-Stack Engineer | AI Builder | System Thinker"/>
 
 </div>
 
